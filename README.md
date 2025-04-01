@@ -20,4 +20,5 @@
 <p>    .connect('mongodb+srv://login:password</p>
 <p></p>
 <p></p>
-<p>Для запуска необходимо в терминале backend написать npm run update, а в терминале frontend написат npm start</p>
+> [!IMPORTANT]
+><p>Для запуска необходимо в терминале backend написать npm run update, а в терминале frontend написат npm start</p>

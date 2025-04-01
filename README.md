@@ -19,3 +19,6 @@
 <p>    .connect('mongodb+srv://login:password</p>
 > [!IMPORTANT]
 >Для запуска необходимо в терминале backend написать npm run update, а в терминале frontend написат npm start</p>
+- George Washington
+* John Adams
++ Thomas Jefferson

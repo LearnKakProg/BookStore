@@ -21,4 +21,4 @@
 <p></p>
 <p></p>
 > [!IMPORTANT]
-><p>Для запуска необходимо в терминале backend написать npm run update, а в терминале frontend написат npm start</p>
+>Для запуска необходимо в терминале backend написать npm run update, а в терминале frontend написат npm start</p>

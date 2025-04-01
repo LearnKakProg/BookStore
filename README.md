@@ -1,6 +1,5 @@
 # BookStore
 <p>Веб-приложение “Книжный магазин” BookStore на Node.js с MongoDB и Redux;</p>
-<p></p>
 <p>Кейс-задача № 4</p>
 <p>Создать Web-версию книжного магазина</p>
 <p>➔	Необходимо создать web-страницу. |&check;|</p>
@@ -18,7 +17,5 @@
 <p>Необходимо в index.js заменить login:password на логин и пароль от mongoose</p>
 <p>mongoose</p>
 <p>    .connect('mongodb+srv://login:password</p>
-<p></p>
-<p></p>
 > [!IMPORTANT]
 >Для запуска необходимо в терминале backend написать npm run update, а в терминале frontend написат npm start</p>
